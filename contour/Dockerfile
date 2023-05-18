@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/net-contour/cmd/controller@sha256:ff0613a1f2e3365b274ef8baabd70d295c8cb74dca15eef52d37a399a6f0dd75
